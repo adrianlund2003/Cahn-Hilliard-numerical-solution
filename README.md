@@ -15,7 +15,7 @@ The simulation captures how initially mixed compositions evolve into distinct re
 
 ## Key Results
 
-![Concentration profile over time](CahnHilliard_RK_u2.gif)  
+![Concentration profile over time](CahnHilliard_RK_u1.gif)  
 *Figure 1: Time evolution of the concentration field u(x,t). Small initial fluctuations grow and separate into distinct phases, illustrating spinodal decomposition driven by the Cahn–Hilliard equation.*
 
 ---
@@ -28,7 +28,7 @@ The assignment is based on phase-field modeling of binary mixtures and emphasize
 
 Note that this repository contains only selected parts of the full group project submission, primarily those related to implementation and numerical simulations. The original submission includes more detailed derivations, mathematical experiments, and results.
 
-Language: **Norwegian**
+Language: **English**
 
 Collaborators:
 
